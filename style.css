@@ -1,0 +1,36 @@
+* {
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    text-align: center;
+    cursor: progress;
+    background-image: url('https://media2.giphy.com/media/11UhXwm8Ipd9C/giphy.gif?cid=790b761137dff5ce2bd7cc5fd4f9a3229899ef36e9b7d5fd&rid=giphy.gif');
+}
+
+b {
+    font-size: 23px;
+}
+
+a {
+    font-size: 23px;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+    background-color: black;
+    border-radius: 5px;
+}
+
+h1 {
+    color: rgb(95, 12, 12);
+}
+
+.container {
+    border: 2px solid rgb(238, 230, 230);
+    margin: 50px auto;
+    width: 1000px; height: 700px;
+    padding: 10px;
+    background-image: url('https://media2.giphy.com/media/11UhXwm8Ipd9C/giphy.gif?cid=790b761137dff5ce2bd7cc5fd4f9a3229899ef36e9b7d5fd&rid=giphy.gif');
+}
